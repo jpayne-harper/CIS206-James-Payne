@@ -1,11 +1,15 @@
 
 """
+James Payne - CIS206
+
 BMI Calculator v2
------------------
+----------------------------------
+
 This program calculates the BMI (Body Mass Index) of a user based on their weight in pounds 
 and height in feet and inches. The program is modular and uses functions for input, conversions, 
 calculation, and output. Constants are defined for unit conversions, and the program avoids global 
 variables by using parameters and return values.
+----------------------------------
 """
 
 # Constants for conversions
