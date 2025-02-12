@@ -1,0 +1,7 @@
+1. Extend the BMI program from the previous lesson. Rather than terminating the program on invalid input, display an error message and ask the user to enter valid input. Provide a way for the user to terminate the program instead if they choose.
+
+2. Extend the BMI program above. Add a loop to the main program that continues asking for input after displaying each BMI result. Provide a way for the user to terminate the program instead if they choose.
+
+3. Update program and function documentation, consistent with the documentation standards for your selected programming language.
+
+4. Extend the BMI program to displays a BMI table, with columns for height from 58 inches to 76 inches in 2-inch increments and rows for weight from 100 pounds to 250 pounds in 10-pound increments. Reuse the conversion/calculation functions from the BMI program above. Include appropriate program and function documentation, consistent with the documentation standards for your selected programming language.
