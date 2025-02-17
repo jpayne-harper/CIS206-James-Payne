@@ -1,0 +1,5 @@
+Write a 1 page test plan for the BMI program.
+Your test plan should include at least 5 test cases. Two of the test cases should cover failed conditions. 
+Provide a description of your testing technology, i.e. pytest, unittest etc and why you chose that technology. For each test case provide a short description of what your are testing and why, the inputs and expected outputs. 
+Develop the test cases and run. Do a screen capture of each test case run and add to your test plan document. 
+Put the document in your repository. Name the document TestPlan. 
