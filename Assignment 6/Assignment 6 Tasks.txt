@@ -1,0 +1,10 @@
+
+Do Activities #1, #2, and #3. 
+Place the code in your repository. Paste the link in here. 
+__________________________________________
+
+1.) Review Wikipedia: Run-length encoding. Create a program that asks the user for an input string of alphabetic characters. Convert the string to a run-length encoded (RLE) string of characters and numbers. Use the compressed format, where a single instance of a character has no count. For example, AAABCC would be A3BC2. Use a separate function for string processing. Avoid using global variables by passing parameters and returning results. Include appropriate data validation and parameter validation. Add program and function documentation, consistent with the documentation standards for your selected programming language.
+
+2.) Enhance the RLE program above to check to see if a string has numbers in it. If so, it is already in RLE format. Decode RLE strings and display the results. Strings that have no encoding should be encoded as above. Use a separate function for decoding. Validate parameters and update program and function documentation, consistent with the documentation standards for your selected programming language.
+
+3.) Review Wikipedia: Escape sequence. Enhance the RLE program above by allowing a # symbol to be used as an escape sequence, indicating that the following number is a number character rather than an encoding count. Use a pair of # symbols (##) to indicate a # character. This change should allow any input sequence to be encoded. Enhance the decoding function to support the new format. Begin an encoded sequence with ##00 to indicate it is already encoded. Validate parameters and update program and function documentation, consistent with the documentation standards for your selected programming language.
