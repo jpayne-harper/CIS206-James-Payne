@@ -1,0 +1,15 @@
+Do Activities in Wikiveristy #1, #2, and #3. 
+
+Place the code into your repository. Submit you code by pasting the link here. 
+
+Assignment: Applied Programming/Dictionaries and Sets - Wikiversity 
+
+1.) Download GitHub: Northwind Customers. Write a program to read the file and create a customers list, where each element in the list is a dictionary of information for a given customer.
+
+2.) Provide an interface for the program above that allows the user to:
+-- Display company name, contact name, and phone number for all customers sorted by company name.
+-- Display contact name, company name, and phone number for all customers sorted by contact name.
+-- Search for a given company name or part of a name and display matching records with fields labeled.
+-- Search for a given contact name or part of a name and display matching records with fields labeled.
+
+3.) For each of the above, use separate functions for each type of processing. Reuse functions where possible, such as in sorting and searching. Avoid using global variables by passing parameters and returning results. Include appropriate data validation and parameter validation. Add program and function documentation, consistent with the documentation standards for your selected programming language.
