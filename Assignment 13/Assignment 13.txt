@@ -1,0 +1,7 @@
+Develop code for the assignment problem. Use last week's code (attached) as a basis for this this assignment. 
+Create a class that inherits from one of the problems from the previous week's assignment (Employee, Patient, Procedure). 
+Just choose one but you are to show: 
+1. Inheritance
+2. Addition of at least one new method of your choice (design) in the inherited class. 
+3. Show overriding of one of the methods in the base class. 
+4. Demostration that the inherited class works properly by instantiating that class, adding data to it and displaying the data using the class methods.  
