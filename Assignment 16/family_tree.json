@@ -1,0 +1,24 @@
+{
+  "family": [
+    {
+      "first_name": "James",
+      "last_name": "Payne",
+      "suffix": "",
+      "alive": true,
+      "father": "William Payne Jr.",
+      "mother": "Bonnie Payne",
+      "year_of_birth": 1995,
+      "full_name": "James Payne"
+    },
+    {
+      "first_name": "William",
+      "last_name": "Payne",
+      "suffix": "III",
+      "alive": true,
+      "father": "William Payne Jr.",
+      "mother": "Bonnie Payne",
+      "year_of_birth": 1992,
+      "full_name": "William Payne III"
+    }
+  ]
+}
