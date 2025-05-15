@@ -19,6 +19,26 @@
       "mother": "Bonnie Payne",
       "year_of_birth": 1992,
       "full_name": "William Payne III"
+    },
+    {
+      "first_name": "Bonnie",
+      "last_name": "Payne",
+      "suffix": "",
+      "alive": true,
+      "father": "Bruce Zanca",
+      "mother": "Judy Zanca",
+      "year_of_birth": 1961,
+      "full_name": "Bonnie Payne"
+    },
+    {
+      "first_name": "William",
+      "last_name": "Payne",
+      "suffix": "Jr.",
+      "alive": false,
+      "father": "William Payne",
+      "mother": "Dorothy Payne",
+      "year_of_birth": 1959,
+      "full_name": "William Payne Jr."
     }
   ]
 }
